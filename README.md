@@ -5,7 +5,7 @@
 Document your knowledge of Git, GitHub and Webstorm by creating a step by step tutorial in your readme file.
 
 - [X] Git
-- [X] Github Tutorial.
+- [X] Github Tutorial
 - [X] Webstorm
 
 
@@ -44,13 +44,13 @@ GitHub is a Git hosting repository that provides developers with tools to ship b
 # Webstorm
 WebStorm is a powerful IDE for modern JavaScript development. WebStorm provides full support for JavaScript, TypeScript, HTML, CSS as well as for frameworks such as React, Angular, and Vue.js right out of the box, no additional plugins are required. Besides client-side applications, WebStorm helps you develop server-side applications with Node.js, mobile apps with React Native or Cordova, and desktop apps with Electron. Note that having Node.js is highly recommended although the core WebStorm features are still at your disposal without it.
 
+
+
 # Instructions from Professor
 Your commits should have clear messages like:
-[x] Task: create Repository
-[x] Feature: added workflow for using gitHub
-[x] Fix: changed readme.md for definition of terms
-
-
+- [x] Task: create Repository
+- [x] Feature: added workflow for using gitHub
+- [x] Fix: changed readme.md for definition of terms
 
 
 # Reference
