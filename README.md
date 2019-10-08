@@ -88,8 +88,7 @@ This command sets the author name and email address respectively to be used with
 
 Now you can learn basic commands of the git from this document.
 
-**Refenced from work done in miniproject1**
-
+**Git Tutorial referenced from work done in Miniproject1**
 
 
 # GitHub Flow
@@ -103,7 +102,7 @@ This is a branch based workflow built around the git commands described above an
 
 **Remote -** This is the common repository all team members used to exchange their changes. The Remote repository should be most updated version of the code repository. Think of this like a final version after all combined changes by team members. This is where GitHub comes in. The remote version is usually stored on a hosting service like GitHub or a local server.
 
-# GIT && GitHub
+# GIT & GitHub
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. Commonly used for both open source and commercial software development, with significant benefits for teams.
 
 Git allows developers see the entire timeline of their changes, decisions, and progression of any project in one place which is GitHub.
@@ -126,7 +125,6 @@ GitHub is a Git hosting repository that provides developers with tools to ship b
 WebStorm is a powerful IDE for modern JavaScript development. WebStorm provides full support for JavaScript, TypeScript, HTML, CSS as well as for frameworks such as React, Angular, and Vue.js right out of the box, no additional plugins are required. Besides client-side applications, WebStorm helps you develop server-side applications with Node.js, mobile apps with React Native or Cordova, and desktop apps with Electron. Note that having Node.js is highly recommended although the core WebStorm features are still at your disposal without it.
 
 
-
 # Instructions from Professor
 Your commits should have clear messages like:
 - [x] Task: create Repository
@@ -135,5 +133,6 @@ Your commits should have clear messages like:
 
 
 # Reference
-Git Handbook - https://guides.github.com/introduction/git-handbook/
-Jet Brains - https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+- Miniproject1 (contributed by Rutwik & Chinedu)
+- Git Handbook - https://guides.github.com/introduction/git-handbook/
+- Jet Brains - https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
