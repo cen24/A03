@@ -10,6 +10,87 @@ Document your knowledge of Git, GitHub and Webstorm by creating a step by step t
 
 
 **GIT TUTORIAL**
+# A step by step guide to Git
+# Step 1: Create a GitHub account
+
+
+![Image](Dependency/git_guide1.png)
+
+![Image](Dependency/git_guide2.png)
+
+# Step 2: Create a new repository
+
+A repository is like a place or a container where something is stored; in this case we're creating a Git repository to store code. To create a new repository, select New Repository from the + sign dropdown menu (you can see I've selected it in the upper-right corner in the image above).
+
+![Image](Dependency/git_guide3.png)
+
+Enter a name for your repository (e.g, "Demo") and click Create Repository.
+
+
+
+# Step 3: Create a file
+
+Create a new file from terminal and ignore the rest for now.
+
+Open the Terminal program on your PC.
+
+or then again on Windows you can utilize cmd and guid it to the organizer where you stored the repo.
+
+with directions like cd,mkdir and rm.
+
+
+![Image](Dependency/git_guide5.png)
+
+
+Type git and hit Enter. If it says command bash: git: command not found, then install Git with the command for your Linux operating system or distribution. Check the installation by typing git and hitting Enter; if it's installed, you should see a bunch of information about how you can use the command.
+
+In the terminal, type:
+
+mkdir Demo
+This command will create a directory (or folder) named Demo.
+
+Change your terminal to the Demo directory with the command:
+
+cd Demo
+Then enter:
+
+echo "#Demo" >> README.md
+This creates a file named README.md and writes
+
+cat README.md
+This will show you what is inside the README.md file, if the file was created correctly.
+
+
+To tell your computer that Demo is a directory managed by the Git program, enter:
+
+git init
+Then, to tell the Git program you care about this file and want to track any changes from this point forward, enter:
+
+git add README.md
+
+# Step 4: Make a commit
+
+So far you've made a document and informed Git concerning it, and now it's an ideal opportunity to make a submit. Submit can be thought of as an achievement. Each time you achieve some work, you can do an git commit  to store that variant of your record, so you can return later and see what it resembled by then. At whatever point you roll out an improvement to your record, you make another rendition of that document, not the same as the past one.
+
+# Step 5: Connect your GitHub repo with your computer
+
+Now, it's time to connect your computer to GitHub with the command:
+
+ **git config**
+
+Usage: **git config –-global user.name &quot;[name]&quot;**
+
+Usage: **git config –-global user.email &quot;[email address]&quot;**
+
+This command sets the author name and email address respectively to be used with your commits.
+
+![Image of Git Config](/Dependency/git_config.png)
+
+Now you can learn basic commands of the git from this document.
+
+**Refenced from work done in miniproject1**
+
+
 
 # GitHub Flow
 This is a branch based workflow built around the git commands described above and other commands as well which are used by teams and people around the globe. Branch based meaning each team member can create a local copy of the repository on their system to work on and update code and then push it to the Master repository when complete.
