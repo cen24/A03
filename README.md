@@ -65,7 +65,7 @@ Then, to tell the Git program you care about this file and want to track any cha
 
 git add README.md
 
-#tep 4: Make a commit
+# Step 4: Make a commit
 
 So far you've made a document and informed Git concerning it, and now it's an ideal opportunity to make a submit. Submit can be thought of as an achievement. Each time you achieve some work, you can do an git commit  to store that variant of your record, so you can return later and see what it resembled by then. At whatever point you roll out an improvement to your record, you make another rendition of that document, not the same as the past one.
 
