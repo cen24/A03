@@ -2,9 +2,7 @@
 
 **Define Terms**
 
-Document your knowledge of Git, GitHub and Webstorm by creating a step by step tutorial in your readme file.
-
-- [X] Git
+- [X] Git & Github
 - [X] Github Tutorial
 - [X] Webstorm
 
@@ -125,7 +123,9 @@ WebStorm is a powerful IDE for modern JavaScript development. WebStorm provides 
 
 
 # Instructions from Professor
-Your commits should have clear messages like:
+1. Document your knowledge of Git, GitHub and Webstorm by creating a step by step tutorial in your readme file.
+
+2. Your commits should have clear messages like:
 - [x] Task: create Repository
 - [x] Feature: added workflow for using gitHub
 - [x] Fix: changed readme.md for definition of terms
